@@ -53,6 +53,7 @@ PCcontrol - Простой тул удаленного доступа к ПК.
 
 # ✋ **Перед использованием**
 ```pip install -r obscure.txt```
+
 ```python obscure.py```
 
 # ⚠️ **Важное**
